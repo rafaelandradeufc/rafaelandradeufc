@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome to my profile!
+
+I'm Rafael Andrade, full-stack developer with a great love for technology.
+
+My landing page: [https://rafaelandradeufc.github.io/](https://rafaelandradeufc.github.io/)
 
 <!--
 **rafaelandradeufc/rafaelandradeufc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
