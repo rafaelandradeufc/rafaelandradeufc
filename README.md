@@ -9,7 +9,7 @@ My landing page: [https://rafaelandradeufc.github.io/](https://rafaelandradeufc.
  <a href="https://www.linkedin.com/in/rafaelandradeufc/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rafael%20Andrade-blue?logo=linkedin?logo=linkedin"></a>
 </p>
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rafaelandradeufc&count_private=true&show_icons=true&include_all_commits=true?theme=vue)](https://github.com/rafaelandradeufc)
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rafaelandradeufc&theme=dark&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/rafaelandradeufc)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelandradeufc&count_private=true&show_icons=true?theme=vue)](https://github.com/rafaelandradeufc)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelandradeufc&theme=dark&count_private=true&show_icons=true)](https://github.com/rafaelandradeufc)
 
