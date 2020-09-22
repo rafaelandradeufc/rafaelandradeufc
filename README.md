@@ -6,7 +6,10 @@ My landing page: [https://rafaelandradeufc.github.io/](https://rafaelandradeufc.
 
 
 <p align="center">  
- <a href="https://www.linkedin.com/in/rafaelandradeufc/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rafael%20Andrade-blue?logo=linkedin?logo=linkedin"></a>
+ <a href="https://www.linkedin.com/in/rafaelandradeufc/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rafael%20Andrade-blue?logo=linkedin"></a>
+ 
+ <a href="https://wa.me/5588996203845?text=*Ol%C3%A1%2C%20vi%20sua%20landing%20page!*%0A%0A"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Rafael%20Andrade-brightgreen?logo=whatsapp"></a>
+
 </p>
 
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rafaelandradeufc&theme=vue&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/rafaelandradeufc)
