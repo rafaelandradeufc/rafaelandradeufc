@@ -6,8 +6,8 @@ My landing page: [https://rafaelandradeufc.github.io/](https://rafaelandradeufc.
 
 
 <p align="center">  
- <a href="https://www.linkedin.com/in/rafaelandradeufc/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-rafaelandradeufc-blue?style=flat&logo=linkedin&logoColor=white"></a>
- <a href="https://wa.me/5588996203845?text=Ol%C3%A1%2C%20visitei%20seu%20Github!%0A%0A"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Rafael%20Andrade-brightgreen?style=flat&logo=whatsapp&logoColor=white"></a>
+ <a href="https://www.linkedin.com/in/rafaelandradeufc/"><img alt="LinkedIn" src="https://img.shields.io/badge/rafaelandradeufc-blue?style=flat&logo=linkedin&logoColor=white"></a>
+ <a href="https://wa.me/5588996203845?text=Ol%C3%A1%2C%20visitei%20seu%20Github!%0A%0A"><img alt="WhatsApp" src="https://img.shields.io/badge/Rafael%20Andrade-brightgreen?style=flat&logo=whatsapp&logoColor=white"></a>
  <a href="https://t.me/rafaelandradeufc"><img alt="LinkedIn" src="https://img.shields.io/badge/Telegram-@rafaelandradeufc-blue?style=flat&logo=telegram&logoColor=white"></a>
  <a href="mailto:arkikis181@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-arkikis181%40gmail.com-red?style=flat&logo=gmail&logoColor=white"></a>
 </p>
