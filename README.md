@@ -2,8 +2,6 @@
 
 I'm Rafael Andrade, full-stack developer with a great love for technology.
 
-My landing page: [https://rafaelandradeufc.github.io/](https://rafaelandradeufc.github.io/)
-
 
 <p align="center">  
  <a href="https://www.linkedin.com/in/rafaelandrades/"><img alt="LinkedIn" src="https://img.shields.io/badge/rafaelandradeufc-blue?style=appveyor&logo=linkedin&logoColor=white"></a>
