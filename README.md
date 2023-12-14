@@ -3,7 +3,7 @@
 I'm Rafael Andrade, full-stack developer with a great love for technology.
 
 
-<p align="center">  
+<p align="left">  
  <a href="https://www.linkedin.com/in/rafaelandrades/"><img alt="LinkedIn" src="https://img.shields.io/badge/rafaelandradeufc-blue?style=appveyor&logo=linkedin&logoColor=white"></a>
  <a href="https://web.whatsapp.com/send/?phone=5588996203845&text=Ol%C3%A1%2C+visitei+seu+Github%21%0A%0A&type=phone_number&app_absent=0"><img alt="WhatsApp" src="https://img.shields.io/badge/Rafael%20Andrade-brightgreen?style=appveyor&logo=whatsapp&logoColor=white"></a>
  <a href="https://t.me/rafaelandradeufc"><img alt="LinkedIn" src="https://img.shields.io/badge/@rafaelandradeufc-blue?style=appveyor&logo=telegram&logoColor=white"></a>
