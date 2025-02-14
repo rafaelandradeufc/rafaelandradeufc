@@ -13,3 +13,4 @@ I'm Rafael Andrade, full-stack developer with a great love for technology.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelandradeufc&theme=vue&count_private=true&show_icons=true)](https://github.com/rafaelandradeufc)
 
+![rafaelandradeufc's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafaelandradeufc&theme=dark&hide_border=false)
